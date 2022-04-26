@@ -145,6 +145,33 @@ span {
   width: 100px;
 }
 
+.rigth_num{
+  float: right;
+}
+
 .container {
   height: 200px;
+}
+
+.card {
+  border: solid 0px #ddd;
+  border-radius: 5px;
+  margin: 0 15 px;
+  padding: 10px 0;
+  width: 33.3%;
+}
+
+.inline-block {
+  display: inline-block;
+  height: 55px;
+  width: 160px;
+  background-color: pink;
+}
+
+.center {
+  width: 200px;
+  margin: 0 auto;
+  background-color: aqua;
+  text-align: center;
+  padding: 7px 0;
 }
